@@ -1,7 +1,8 @@
 <h1>💡 Laporan Praktikum</h1>
 
-Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui <a href="https://eldiru.unsoed.ac.id/">eLdiru</a> (ruang unggah disediakan dimasing-masing pertemuan) dengan format sebagai berikut:</p>
-<p>Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H022001
+Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan praktikum dan dikumpulkan pada Room ini dengan format sebagai berikut:
+
+Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H022001
 
 Dikirimkan dalam bentuk attachment dengan format .pdf bentuk laporan seperti template berikut ini.
 
